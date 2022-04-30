@@ -3,3 +3,8 @@ button.first {
     color: white;
 }
 
+button.second {
+    background-color: rgb(235, 214, 108);
+}
+
+
